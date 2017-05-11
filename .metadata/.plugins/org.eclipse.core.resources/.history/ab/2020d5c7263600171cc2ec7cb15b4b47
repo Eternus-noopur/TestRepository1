@@ -1,0 +1,9 @@
+public  class StringOperations {
+	
+	public static void stringOperations(String testString)
+	{
+		String replaceString = testString.replace('@','a'); 
+		system.debug('Replaced String:'+);	
+	} 
+    
+}

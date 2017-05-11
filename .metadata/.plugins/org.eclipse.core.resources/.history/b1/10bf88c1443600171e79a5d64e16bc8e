@@ -1,0 +1,7 @@
+public class AbstractClassImplementation extends AbstractMethodDemo {
+	
+	public void sampleMethod(){
+		system.debug('In abstract class implementation');
+	}
+    
+}
