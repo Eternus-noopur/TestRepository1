@@ -1,5 +1,5 @@
 public class StaticDemo {
-	
+	StaticDemo s;
 	public static void staticMethod()
 	{
 		system.debug('In static method');

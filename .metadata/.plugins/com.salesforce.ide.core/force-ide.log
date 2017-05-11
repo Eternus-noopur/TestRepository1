@@ -518,3 +518,57 @@ ERROR [2017-05-11 16:20:17,017] (SynchronizeHandler.java:sync:138) - Unable to s
  WARN [2017-05-11 16:21:09,799] (ConnectionFactory.java:clearCache:220) - Clearing the following cached connections
  WARN [2017-05-11 16:21:09,808] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
  WARN [2017-05-11 16:21:09,819] (MetadataFactory.java:clearCache:128) - Clearing the following cached metadata stubs
+ERROR [2017-05-11 16:26:10,043] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:20:22,527] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 17:21:09,856] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'classes/StaticDemo.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2017-05-11 17:21:09,987] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+ WARN [2017-05-11 17:21:09,997] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\noopur.naik\Desktop\Git_new\.metadata\.plugins\org.eclipse.core.resources\.projects\ProgramaticModelFirst\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2017-05-11 17:21:10,044] (ComponentController.java:run:425) - Unable to update cache with new component Apex Class - cache is not found
+ WARN [2017-05-11 17:21:10,121] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 17:27:10,505] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 17:27:38,406] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:30:08,423] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 17:35:55,310] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'classes/HelloWorldDemo.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2017-05-11 17:35:55,440] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+ WARN [2017-05-11 17:35:55,450] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\noopur.naik\Desktop\Git_new\.metadata\.plugins\org.eclipse.core.resources\.projects\ProgramaticModelFirst\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2017-05-11 17:35:55,460] (ComponentController.java:run:425) - Unable to update cache with new component Apex Class - cache is not found
+ WARN [2017-05-11 17:35:55,611] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 17:42:17,913] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 17:42:24,451] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:43:54,849] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'classes/AbstractMethodDemo.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2017-05-11 17:43:54,982] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+ WARN [2017-05-11 17:43:54,990] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\noopur.naik\Desktop\Git_new\.metadata\.plugins\org.eclipse.core.resources\.projects\ProgramaticModelFirst\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2017-05-11 17:43:55,017] (ComponentController.java:run:425) - Unable to update cache with new component Apex Class - cache is not found
+ WARN [2017-05-11 17:43:55,133] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 17:50:03,660] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'classes/AbstractClassImplementation.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+ WARN [2017-05-11 17:50:03,760] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+ WARN [2017-05-11 17:50:03,770] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\noopur.naik\Desktop\Git_new\.metadata\.plugins\org.eclipse.core.resources\.projects\ProgramaticModelFirst\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+ WARN [2017-05-11 17:50:03,780] (ComponentController.java:run:425) - Unable to update cache with new component Apex Class - cache is not found
+ WARN [2017-05-11 17:50:03,899] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 17:52:34,777] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 17:52:42,682] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:52:50,550] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 17:53:00,329] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:53:05,902] (ProjectService.java:handleDeployResult:1917) - Save failed!
+ WARN [2017-05-11 17:53:05,912] (ProjectService.java:handleRetrieveResult:2087) - Nothing to save to project - retrieve result is empty
+ERROR [2017-05-11 17:53:49,700] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:53:52,480] (ProjectService.java:handleDeployResult:1917) - Save failed!
+ WARN [2017-05-11 17:53:52,490] (ProjectService.java:handleRetrieveResult:2087) - Nothing to save to project - retrieve result is empty
+ WARN [2017-05-11 17:54:19,215] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 17:54:27,679] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 17:54:30,267] (ProjectService.java:handleDeployResult:1917) - Save failed!
+ WARN [2017-05-11 17:54:30,287] (ProjectService.java:handleRetrieveResult:2087) - Nothing to save to project - retrieve result is empty
+ WARN [2017-05-11 17:55:35,483] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 17:55:44,741] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+ WARN [2017-05-11 18:11:05,492] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 18:13:40,304] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 18:13:56,636] (ProjectService.java:handleDeployResult:1917) - Save failed!
+ WARN [2017-05-11 18:13:56,645] (ProjectService.java:handleRetrieveResult:2087) - Nothing to save to project - retrieve result is empty
+ WARN [2017-05-11 18:14:26,032] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 20:23:20,257] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ERROR [2017-05-11 20:23:27,544] (MetadataOperationsRetryAspect.java:metadataOperationsRetry:34) - ForceRemoteException occurred while attempting to perform a metadata operation
+ WARN [2017-05-11 20:27:55,161] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 22:03:06,418] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+ WARN [2017-05-11 22:03:08,793] (ConnectionFactory.java:clearCache:220) - Clearing the following cached connections
+ WARN [2017-05-11 22:03:08,803] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+ WARN [2017-05-11 22:03:08,813] (MetadataFactory.java:clearCache:128) - Clearing the following cached metadata stubs
