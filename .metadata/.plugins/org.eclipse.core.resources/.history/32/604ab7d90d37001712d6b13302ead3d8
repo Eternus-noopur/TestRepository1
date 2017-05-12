@@ -1,0 +1,11 @@
+public class QueryOnContact {
+	
+	public static void printingContactRecords(){
+	
+	List<Contact> contactRecords = new List<Contact>([SELECT Name, Phone, Email FROM Contact]);
+	for(Contact cont: contactRecords)
+	{
+			system.debug(contactRecords);
+	
+	}
+}

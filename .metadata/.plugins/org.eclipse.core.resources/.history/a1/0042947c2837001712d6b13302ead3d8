@@ -1,0 +1,26 @@
+public class insetOperation {
+    public static void insertOp(){
+    	Lead newrecord     = new Lead();
+		newrecord.FirstName = 'Divya';
+		newrecord.LastName  = 'Sharma';
+		newrecord.Company   = 'Unemployed';
+		insert newrecord;
+		
+		Account newRec=new Account();
+		newRec.Name='Shikha';
+		//newRec.CompanyName='Eternus';
+		insert newRec;
+		
+		Contact contactRecord=new Contact();
+		contactRecord.FirstName='Shikha';
+		contactRecord.Lastname='Mishra';
+		//contactRecord.Phone=1234567890;
+		contactRecord.Email='naiknoopur09@gmail.com';
+		insert newRecord;
+		
+		Opportunity newRecord1=new Opportunity();
+		newRecord1.Name='Sneha';
+		newRecord1.AccountId= newRec.id;
+		insert newRec;
+    }
+}

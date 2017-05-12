@@ -1,0 +1,9 @@
+public class insetOperation {
+    public static void insertOp(){
+    	Lead myLead      = new Lead();
+		myLead.FirstName = 'David';
+		myLead.LastName  = 'Liu';
+		myLead.Company   = 'Unemployed';
+		insert myLead;
+    }
+}
