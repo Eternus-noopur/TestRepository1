@@ -1,0 +1,17 @@
+public class CountingCharacters {
+	
+	public static void countOccurance(String testString)
+	{
+		String lowerCase= testString.toLowerCase(); 
+		String removeSpaces= lowerCase.remove(' '); 
+		String[] stringSpilt = removeSpaces.split('');
+		for(String characters:stringSpilt)
+		{
+			system.debug(stringSpilt);
+		}
+		
+	
+	
+	}
+    
+}

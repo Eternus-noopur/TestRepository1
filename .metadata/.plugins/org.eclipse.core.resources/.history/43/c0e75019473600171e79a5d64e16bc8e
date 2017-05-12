@@ -1,0 +1,24 @@
+public class CountingCharacters {
+	
+	public static void countOccurance(String testString)
+	{
+		//Map<String, Integer> charOccurance = new map<String, Integer>();
+		String lowerCase= testString.toLowerCase(); 
+		String removeSpaces= lowerCase.remove(' '); 
+		String[] stringSpilt = removeSpaces.split('');
+		system.debug(stringSpilt);
+		Set<String> uniqueString = new Set<String>(stringSpilt);
+		for(String ch:uniqueString)
+		{
+			
+		}
+		
+		
+			
+		
+		
+	
+	
+	}
+    
+}

@@ -1,0 +1,9 @@
+public  class ReverseString {
+    public static void reverseString(String testString)
+    {
+    
+    	String  revString = testString.reverse();
+    	system.debug(revString);
+    	
+    }
+}

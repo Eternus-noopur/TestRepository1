@@ -1,0 +1,12 @@
+public  class StringOperations {
+	
+	public static void stringOperations(String testString)
+	{
+		String replaceString = testString.replace('@','A'); 
+		system.debug('Replaced String:'+replaceString);	
+		
+		String substr = testString.substring(11,26); 
+		system.debug('Substring:'+replaceString);	
+	} 
+    
+}
