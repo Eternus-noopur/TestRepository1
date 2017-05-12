@@ -37,3 +37,12 @@
  WARN [2017-05-10 15:41:52,758] (ConnectionFactory.java:clearCache:220) - Clearing the following cached connections
  WARN [2017-05-10 15:41:52,768] (DescribeObjectRegistry.java:clearCache:663) - Clearing cached describes
  WARN [2017-05-10 15:41:52,778] (MetadataFactory.java:clearCache:128) - Clearing the following cached metadata stubs
+ WARN [2017-05-12 14:34:12,581] (ConnectionFactory.java:clearCache:217) - No cached connections
+ WARN [2017-05-12 14:34:12,600] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+ WARN [2017-05-12 14:34:12,606] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+ WARN [2017-05-12 14:46:18,815] (ConnectionFactory.java:clearCache:217) - No cached connections
+ WARN [2017-05-12 14:46:18,830] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+ WARN [2017-05-12 14:46:18,836] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+ WARN [2017-05-12 14:55:27,469] (ConnectionFactory.java:clearCache:217) - No cached connections
+ WARN [2017-05-12 14:55:27,481] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+ WARN [2017-05-12 14:55:27,487] (MetadataFactory.java:clearCache:125) - No cached metadata stubs

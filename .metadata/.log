@@ -168,3 +168,15 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 !ENTRY com.salesforce.ide.core 2 0 2017-05-10 15:41:52.778
 !MESSAGE  WARN [2017-05-10 15:41:52,778] (MetadataFactory.java:clearCache:128) - Clearing the following cached metadata stubs
 
+
+!ENTRY com.salesforce.ide.core 2 0 2017-05-12 14:55:27.475
+!MESSAGE  WARN [2017-05-12 14:55:27,469] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2017-05-12 14:55:27.482
+!MESSAGE  WARN [2017-05-12 14:55:27,481] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2017-05-12 14:55:27.488
+!MESSAGE  WARN [2017-05-12 14:55:27,487] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
